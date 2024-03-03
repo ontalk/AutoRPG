@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "963708816346",
+    "firebase_url": "https://autohunting-be019-default-rtdb.firebaseio.com",
+    "project_id": "autohunting-be019",
+    "storage_bucket": "autohunting-be019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963708816346:android:ee895066eb26b803cc4ee3",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AutoHunting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCEJSjeFnUQvTyFfsKLr7hSfarRFcmc_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
